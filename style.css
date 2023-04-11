@@ -1,0 +1,501 @@
+/* *{
+    color: #CECECE;
+} */
+header{
+
+
+    /* Rectangle 2 */
+
+
+    position: absolute;
+    width: 1440px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+
+    background: #F8F8F8;
+
+    /* Width: 1440px;
+    Height: 3629px;
+    Top: -95px;
+    Left: 7753px;
+    background-color: #FFFFFF; */
+    
+
+
+}
+
+.watch{
+
+    /* image-removebg-preview (14) 1 */
+
+    position: absolute;
+
+    background: url(image-watch1.png);
+
+    float: right;
+    left: 792px;
+    top: 4px;
+    width: 408px;
+    height: 720px;
+
+
+
+}
+
+.main-text{
+    /* mor705 */
+
+
+    position: absolute;
+    width: 135px;
+    height: 32px;
+    left: 133px;
+    top: 104px;
+    border-radius: 'undefinedpx';
+
+    /* font-family: 'League Spartan'; */
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 186%;
+    letter-spacing: 0em;
+    text-align: left;
+/* or 45px */
+
+
+/* чер */
+
+    color: #161515;
+
+}
+.main-text1{
+    /* Watch */
+
+
+    position: absolute;
+    width: 877px;
+    height: 215px;
+    left: 133px;
+    top: 189px;
+    border-radius: 'undefinedpx';
+
+    /* font-family: 'League Spartan'; */
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 220px;
+    line-height:  0%;
+    letter-spacing: 0em;
+    text-align: left;
+
+    color: #272727;
+
+}
+.main-text2{
+    
+    
+    /* The watch also features a tough and durable sapphire a Swiss Sellita SW200-1 automatic winding movement that has a power reserve */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 575px;
+height: 142px;
+left: 135px;
+top: 447px;
+border-radius: 'undefinedpx';
+/* 
+font-family: 'League Spartan'; */
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 155%;
+letter-spacing: 0em;
+text-align: left;
+/* or 50px */
+
+
+/* чер */
+
+color: #161515;
+
+}
+.buy{
+
+    /* Rectangle 1 */
+
+
+position: absolute;
+width: 278px;
+height: 82px;
+left: 135px;
+top: 650px;
+
+/* чер */
+
+background: #161515;
+
+
+/* Buy watch */
+
+
+
+/* font-family: 'League Spartan'; */
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 82px;
+letter-spacing: 0em;
+text-align: center; 
+margin-top: 2.2%;
+text-decoration: none;
+padding: 0px 0 0 0;
+
+color: #FFFFFF;
+
+
+
+}
+.buy1{
+
+    /* Rectangle 6 */
+
+
+    position: absolute;
+    width: 143px;
+    height: 82px;
+    left: 413px;
+    top: 650px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 28px rgba(214, 214, 214, 0.25);
+
+
+/* 1700$ */
+
+   /* font-family: 'League Spartan'; */
+   font-family: 'Inter', sans-serif;
+   font-style: normal;
+   font-weight: 300;
+   font-size: 32px;
+   line-height: 82px;
+   letter-spacing: 0em;
+   margin-top: 2.2%;
+   text-align: center;
+   text-decoration: none;
+   /* align-items: center; */
+   /* line-height: 186%; */
+/* or 60px */
+
+    /* text-align: center; */
+
+    color: #272727;
+
+
+}
+
+.section1{
+    /* popular */
+
+
+    position: absolute;
+    width: 171px;
+    height: 41px;
+    left: 621px;
+    top: 943px;
+
+    /* font-family: 'League Spartan'; */
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 186%;
+    /* or 45px */
+
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+.section2{
+    /* Models */
+
+
+    position: absolute;
+    width: 285px;
+    height: 62px;
+    left: 564px;
+    top: 984px;
+
+    /* font-family: 'League Spartan'; */
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 112.5%;
+    /* or 81px */
+
+    text-align: center;
+
+    color: #000000;
+
+
+
+}
+.watch2{
+    /* Rectangle 4 */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 417px;
+    height: 630px;
+    left: 511px;
+    top: 1130px;
+    border-radius: 0px;
+
+    background: rgba(248, 248, 248, 1); 
+
+
+
+    /* background: #F8F8F8; */
+
+
+    /* image-removebg-preview (15) 1 */
+
+
+    /* position: absolute;
+    width: 286px;
+    height: 410px;
+    left: 582px;
+    top: 1240px;
+
+    background: url(image-watch2.png); */
+
+}
+.section3{
+    /* Son22 */
+
+
+    position: absolute;
+    width: 285px;
+    height: 27px;
+    left: 576px;
+    top: 1827px;
+
+    /* font-family: 'League Spartan'; */
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+.section4{
+    /* The watch also features a tough and durable sapphire crystal glass and comes with a Swiss SW200-1 automatic winding movement that has a power reserve. */
+
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 531px;
+    height: 194px;
+    left: 454px;
+    top: 1871px;
+
+    /* font-family: 'League Spartan'; */
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 155%;
+    /* or 50px */
+
+    text-align: center;
+
+    /* чер */
+
+    color: #161515;
+
+}
+.watch3{
+    /* Rectangle 5 */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 496px;
+    height: 630px;
+    left: 472px;
+    top: 2150px;
+    border-radius: 0px;
+
+    background: #F8F8F8;
+
+    /* image-removebg-preview (17) 1 */
+
+
+    /* position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 470px;
+    top: 2215px;
+
+    background: url(image-watch3.png);
+
+
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 417px;
+    height: 630px;
+    left: 511px;
+    top: 1130px;
+    border-radius: 0px;
+
+    background: rgba(248, 248, 248, 1);  */
+
+}
+.section5{
+   /* Sw12 */
+
+
+    position: absolute;
+    width: 66px;
+    height: 29px;
+    left: 687px;
+    top: 2847px;
+
+    /* font-family: 'League Spartan'; */
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 29px;
+    text-align: center;
+
+    /* чер */
+
+    color: #161515;
+    
+}
+.section6{
+    /* The watch also features a tough and durable sapphire crystal glass and comes with a Sw12-1 automatic winding */
+
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 510px;
+    height: 196px;
+    left: 465px;
+    top: 2893px;
+
+    /* font-family: 'League Spartan'; */
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 155%;
+    /* or 50px */
+
+    text-align: center;
+
+    /* чер */
+
+    color: #161515;
+
+}
+.section7{
+
+        /* Line 4 */
+
+    margin: 0 auto;
+    width: 417px;
+    margin-bottom: 85px;
+    margin-top: 40px;
+
+    text-align: center;
+    font-size: 32px;
+    line-height: 60px;
+    margin-bottom: 58px;
+    font-weight: 400px;
+
+    /* position: absolute;
+    width: 178.03px;
+    height: 0px;
+    left: 631px;
+    top: 3207px;
+    
+    border: 1px solid #707070; */
+    
+    /* Product description */
+
+
+    position: absolute;
+    width: 972px;
+    height: 50px;
+    left: 234px;
+    top: 3148px;
+
+    /* font-family: 'League Spartan'; */
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 186%;
+    /* or 60px */
+
+    text-align: center;
+    text-transform: capitalize;
+
+    /* чер */
+
+    color: #161515;
+
+
+}
+.section8{
+    /* Inspired by the WWI trench watch, this timepiece has a contemporary design with an urban style and a vintage soul. The 22 Design Studio Concrete Sector Watch reinterprets the old timepiece with a concrete dial. Handmade in Taiwan, the dial is cast in one piece using the béton technique more detailed */
+
+
+    position: absolute;
+    width: 515px;
+    height: 231px;
+    left: 464px;
+    top: 3256px;
+
+    /* font-family: 'League Spartan'; */
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 170%;
+    /* or 41px */
+
+    text-align: center;
+
+    /* чер */
+
+   
+    color: linear-gradient(0deg, #161515, #161515);
+    linear-gradient(0deg, #BB8B5D, #BB8B5D);
+
+
+
+}
